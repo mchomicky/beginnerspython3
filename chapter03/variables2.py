@@ -2,7 +2,7 @@
 
 my_variable = 'Jason'
 print(my_variable)
-my_variable = 422
+my_variable = 42
 print(my_variable)
 my_variable = True
 print(my_variable)
